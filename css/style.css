@@ -1,7 +1,7 @@
 /* CSS Document */
 body, html {
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	color: #161208;
+	color: #fcf8f8;
 	font-size: 12px;
 	margin: 0px;
 	padding: 0px
@@ -17,7 +17,7 @@ ul{
 }
 .keyboard{
 	width: 100%;
-	background: #f2f2f2;
+	background: #940000;
 	padding: 30px;
 	float: left;
 	margin-top: 8%;
