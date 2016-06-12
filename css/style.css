@@ -11,19 +11,19 @@ ul{
 	margin: 0px;
 }
 .container{
-	width: 50%;
+	width: 100%;
 	max-width: 800px;
 	margin: 0px auto;
 }
 .keyboard{
-	width: 50%;
+	width: 100%;
 	background: #f2f2f2;
 	padding: 30px;
 	float: left;
 	margin-top: 8%;
 }
 #typingarea{
-	width: 50%;
+	width: 100%;
 	height: 200px;
 	border: 0px;
 	text-align: left;
