@@ -1,7 +1,7 @@
 /* CSS Document */
 body, html {
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	color: #ffc8f8;
+	color: #161208;
 	font-size: 12px;
 	margin: 0px;
 	padding: 0px
@@ -40,14 +40,12 @@ ul{
 .keysholder li{
 	float: left;
 	display: block;
-	background: #f2f2f2;
+	background: #fff;
 	margin: 4px;
 	padding: 16px 3px;
 	color: #474d5f;
 	text-align: center;
-	font-size: 16px;
-	border: 5px;
-	border:#7e0000;
+	font-size: 11px;
 	border-radius: 5px;
 	cursor: pointer;
 	position: relative;
@@ -122,5 +120,19 @@ ul{
     left: 10px;
     width: 5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
